@@ -28,7 +28,8 @@ Edit
 ---
 
 ## 🖼 Preview
-![Calculator Preview](screenshot.png)  
+<img width="939" height="604" alt="image" src="https://github.com/user-attachments/assets/641f8f9a-1b6e-472a-82ad-ef43493ff0b5" />
+ 
 *(You can replace this with a screenshot of your calculator)*
 
 ---
@@ -36,7 +37,7 @@ Edit
 ## 🛠 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone: [(https://github.com/MehediHasan19013/Simple_Calculator)](https://github.com/MehediHasan19013/Simple_Calculator)
 Open the project folder.
 
 Open index.html in your browser.
@@ -52,5 +53,4 @@ JavaScript (ES6)
 This project is open-source and available under the MIT License.
 
 
-Copy
-Edit
+
