@@ -21,16 +21,12 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 ├── script.js # Calculator functionality
 └── README.md # Project description
 
-yaml
-Copy
-Edit
 
 ---
 
 ## 🖼 Preview
 <img width="939" height="604" alt="image" src="https://github.com/user-attachments/assets/641f8f9a-1b6e-472a-82ad-ef43493ff0b5" />
  
-*(You can replace this with a screenshot of your calculator)*
 
 ---
 
