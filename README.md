@@ -15,6 +15,8 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ## 📂 Project Structure
+
+
 📁 simple-calculator
 ├── index.html # Main HTML structure
 ├── style.css # Styling for calculator
